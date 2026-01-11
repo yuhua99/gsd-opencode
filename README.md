@@ -33,7 +33,7 @@ npx gsd-opencode
 
 **Trusted by engineers at Amazon, Google, Shopify, and Webflow.**
 
-[Why I Built This](#from-the-authour:-why-i-built-this) · [How It Works](#how-it-works) · [Commands](#commands) · [Why It Works](#why-it-works)
+[Why I Built This](#why-i-built-this) · [How It Works](#how-it-works) · [Commands](#commands) · [Why It Works](#why-it-works)
 
 </div>
 
@@ -41,7 +41,7 @@ npx gsd-opencode
 
 
 
-## From the authour: Why I Built This 
+## Why I Built This 
 
 I'm a solo developer. I don't write code — Claude Code does.
 
